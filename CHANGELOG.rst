@@ -9,3 +9,7 @@ netuitive-agent-elasticbeanstalk
 
 - Update to batch size 500.
 - Updates to collector configurations.
+
+NEXT
+
+- Add minimal mode (off by default) option to the NetuitiveDockerCollector
