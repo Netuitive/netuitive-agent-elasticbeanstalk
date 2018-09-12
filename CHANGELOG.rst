@@ -13,3 +13,4 @@ netuitive-agent-elasticbeanstalk
 NEXT
 
 - Add minimal mode (off by default) option to the NetuitiveDockerCollector
+- Add a SimpleCollector config (off by default)
