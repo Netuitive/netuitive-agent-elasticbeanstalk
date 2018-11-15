@@ -14,3 +14,4 @@ NEXT
 
 - Add minimal mode (off by default) option to the NetuitiveDockerCollector
 - Add a SimpleCollector config (off by default)
+- Add a BaseCollector config (on by default)
