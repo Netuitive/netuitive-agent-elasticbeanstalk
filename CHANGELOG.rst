@@ -18,3 +18,5 @@ netuitive-agent-elasticbeanstalk
 - Add a BaseCollector config (on by default)
 
 NEXT
+
+- Make ConcurrentRotatingFileHandler default log handler in netuitive-agent.conf
