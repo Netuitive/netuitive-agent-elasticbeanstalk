@@ -17,6 +17,6 @@ netuitive-agent-elasticbeanstalk
 - Exclude device mapper virtual drives from DiskSpaceCollector by default
 - Add a BaseCollector config (on by default)
 
-NEXT
+0.3.1 (2018-12-7)
 
 - Make ConcurrentRotatingFileHandler default log handler in netuitive-agent.conf
