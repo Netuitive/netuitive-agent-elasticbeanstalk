@@ -19,5 +19,4 @@ netuitive-agent-elasticbeanstalk
 
 NEXT
 
-- Add pkg concurrent-log-handler to fix locking, I/O errors when multiprocess logging to single file
 - Make ConcurrentRotatingFileHandler default log handler in netuitive-agent.conf
